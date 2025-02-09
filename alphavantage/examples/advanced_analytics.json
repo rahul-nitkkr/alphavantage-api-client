@@ -1,0 +1,4 @@
+{
+    "error": "Only one calculation can be requested for running calculations with free api keys!",
+    "trace": "Traceback (most recent call last):\n  File \"/var/task/running_time_series_analytics.py\", line 133, in lambda_handler\n    raise ValueError('Only one calculation can be requested for running calculations with free api keys!')\nValueError: Only one calculation can be requested for running calculations with free api keys!\n"
+}
